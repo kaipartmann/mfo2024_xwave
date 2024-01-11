@@ -1,2 +1,7 @@
 [deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+NaturalSort = "c020b1a1-e9b0-503a-9c33-f039bfc54a85"
 Peridynamics = "4dc47793-80f3-4232-b30e-ca78ca9d621b"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+VideoIO = "d6d074c3-1acf-5d4c-9a43-ef38773959a2"
